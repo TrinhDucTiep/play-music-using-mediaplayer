@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Play Music</string>
+    <string name="channel_name">Channel name</string>
+    <string name="channel_description">This is channel description</string>
+</resources>
